@@ -49,10 +49,21 @@ All data was provided as CSV exports and loaded into PostgreSQL for analysis.
 
 ## Key Findings
 
-**Nearly **half of total revenue (49.8%)** cannot be attributed to specific product titles, limiting product-level performance analysis and merchandising decisions.**
-**Revenue is **extremely concentrated** at the product level, while customer revenue is comparatively well distributed.**
-**Discount usage is modest in absolute dollars but lacks evidence of effectiveness in driving incremental volume.**
-**A small number of referrers account for the majority of site sessions, consistent with a Pareto-style traffic distribution.**
+**Product Attribution Gap**
+
+Nearly half of total revenue (49.8%) cannot be attributed to specific product titles, limiting product-level performance analysis and merchandising decisions. With $22.1K in unattributed net revenue, any product-level ranking or trend analysis is materially incomplete.
+
+**Extreme Product Concentration**
+
+The top 5 product variants generate over 98% of total net sales, while customer revenue is comparatively well distributed. This asymmetry exposes the business to significant disruption risk if any single top variant underperforms or goes out of stock.
+
+**Discount Strategy Lacks Evidence of Effectiveness**
+
+Discounts accounted for $268 in revenue erosion with little evidence of corresponding volume lift. Without a clear relationship between discounting and incremental orders, the current discount approach warrants review.
+
+**Traffic Source Concentration**
+
+A small number of referrers account for the majority of site sessions, consistent with a Pareto-style distribution. Over-reliance on a narrow traffic mix creates vulnerability if a primary referrer reduces volume or changes its algorithm.
 
 ---
 
