@@ -26,14 +26,15 @@ While customer revenue is broadly distributed, product-level concentration and d
 6. How concentrated is revenue across products and customers?
 
 ---
-
 ## Data Sources
 
-- Orders over time (monthly, with prior-year comparisons)
-- Total sales by product variant
-- Discounts by order
-- Sales by customer
-- Sessions by referrer
+| Dataset | Description |
+|---|---|
+| orders_over_time | Monthly order data with prior-year comparisons |
+| sales_by_product_variant | Product-level revenue and unit volume |
+| discounts_by_order | Discount amounts per order |
+| sales_by_customer | Customer-level revenue and order frequency |
+| sessions_by_referrer | Traffic source and session counts |
 
 All data was provided as CSV exports and loaded into PostgreSQL for analysis.
 
