@@ -42,11 +42,10 @@ All data was provided as CSV exports and loaded into PostgreSQL for analysis.
 
 ## Tools & Skills Used
 
-- **SQL (PostgreSQL)**
-  - CTEs, window functions, ranking, cumulative distributions
-- Data modeling & cleaning
-- Exploratory & diagnostic analysis
-- Business-focused insight generation
+- **SQL (PostgreSQL)**: CTEs, window functions, ranking, cumulative distributions
+- **Data modeling & cleaning**
+- **Exploratory & diagnostic analysis**
+- **Business-focused insight generation**
 
 ---
 
