@@ -18,12 +18,12 @@ While customer revenue is broadly distributed, product-level concentration and d
 
 ## Business Questions
 
-- How is overall sales performance trending over time compared to the prior year?
-- Which product variants drive the most revenue versus the most unit volume?
-- How much revenue is lost to discounts and returns?
-- Who are the most valuable customers by spend and order frequency?
-- Which traffic sources generate the most sessions?
-- How concentrated is revenue across products and customers?
+1. How is overall sales performance trending over time compared to the prior year?
+2. Which product variants drive the most revenue versus the most unit volume?
+3. How much revenue is lost to discounts and returns?
+4. Who are the most valuable customers by spend and order frequency?
+5. Which traffic sources generate the most sessions?
+6. How concentrated is revenue across products and customers?
 
 ---
 
