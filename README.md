@@ -57,7 +57,7 @@ Nearly half of total revenue (49.8%) cannot be attributed to specific product ti
 
 The top 5 product variants generate over 98% of total net sales, while customer revenue is comparatively well distributed. This asymmetry exposes the business to significant disruption risk if any single top variant underperforms or goes out of stock.
 
-![Revenue Concentration](Rev_Conc.png)
+![Revenue Concentration](Rev_Conc1.png)
 
 **Discount Strategy Lacks Evidence of Effectiveness**
 
