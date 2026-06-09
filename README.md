@@ -53,7 +53,7 @@ All data was provided as CSV exports and loaded into PostgreSQL for analysis.
 
 Nearly half of total revenue (49.8%) cannot be attributed to specific product titles, limiting product-level performance analysis and merchandising decisions. With $22.1K in unattributed net revenue, any product-level ranking or trend analysis is materially incomplete.
 
-![Revenue Concentration](Rev_conc.png)
+![Revenue Concentration](Rev_Conc.png)
 
 **Extreme Product Concentration**
 
