@@ -71,9 +71,9 @@ A small number of referrers account for the majority of site sessions, consisten
 
 ## Key Business Recommendations
 
-- Resolve product attribution gaps, as **49.8% of total net revenue ($22.1K)** is tied to unattributed product titles, obscuring true product performance.
-- Review discount strategy, as discounts accounted for **$268 in revenue erosion** with limited evidence of incremental volume lift.
-- Reduce product-level concentration risk, as the **top 5 product variants generate over 98% of total net sales**, making revenue vulnerable to disruptions in a narrow product set.
+- **Resolve product attribution gaps:** 49.8% of total net revenue ($22.1K) is tied to unattributed product titles, obscuring true product performance
+- **Review discount strategy:** Discounts accounted for $268 in revenue erosion with limited evidence of incremental volume lift
+- **Reduce product-level concentration risk:** The top 5 product variants generate over 98% of total net sales, making revenue vulnerable to disruptions in a narrow product set
 
 ---
 
