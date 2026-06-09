@@ -1,5 +1,7 @@
 # Customer Holster Solutions — Sales & Product Analysis
 
+![Revenue Concentration](Rev_Conc1.png)
+
 ## Executive Summary
 
 This project analyzes ecommerce sales, customer behavior, discounts, and traffic sources for Customer Holster Solutions using exported Shopify data.
@@ -56,8 +58,6 @@ Nearly half of total revenue (49.8%) cannot be attributed to specific product ti
 **Extreme Product Concentration**
 
 The top 5 product variants generate over 98% of total net sales, while customer revenue is comparatively well distributed. This asymmetry exposes the business to significant disruption risk if any single top variant underperforms or goes out of stock.
-
-![Revenue Concentration](Rev_Conc1.png)
 
 **Discount Strategy Lacks Evidence of Effectiveness**
 
