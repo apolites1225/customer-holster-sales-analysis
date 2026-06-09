@@ -49,10 +49,10 @@ All data was provided as CSV exports and loaded into PostgreSQL for analysis.
 
 ## Key Findings
 
-- Nearly **half of total revenue (49.8%)** cannot be attributed to specific product titles, limiting product-level performance analysis and merchandising decisions.
-- Revenue is **extremely concentrated** at the product level, while customer revenue is comparatively well distributed.
-- Discount usage is modest in absolute dollars but lacks evidence of effectiveness in driving incremental volume.
-- A small number of referrers account for the majority of site sessions, consistent with a Pareto-style traffic distribution.
+**Nearly **half of total revenue (49.8%)** cannot be attributed to specific product titles, limiting product-level performance analysis and merchandising decisions.**
+**Revenue is **extremely concentrated** at the product level, while customer revenue is comparatively well distributed.**
+**Discount usage is modest in absolute dollars but lacks evidence of effectiveness in driving incremental volume.**
+**A small number of referrers account for the majority of site sessions, consistent with a Pareto-style traffic distribution.**
 
 ---
 
