@@ -1,4 +1,4 @@
-# Customer Holster Solutions — Sales & Product Analytics
+# Customer Holster Solutions — Sales & Product Analysis
 
 ## Executive Summary
 
