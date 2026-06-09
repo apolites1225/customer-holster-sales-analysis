@@ -53,6 +53,8 @@ All data was provided as CSV exports and loaded into PostgreSQL for analysis.
 
 Nearly half of total revenue (49.8%) cannot be attributed to specific product titles, limiting product-level performance analysis and merchandising decisions. With $22.1K in unattributed net revenue, any product-level ranking or trend analysis is materially incomplete.
 
+![Revenue Concentration](Rev_conc.png)
+
 **Extreme Product Concentration**
 
 The top 5 product variants generate over 98% of total net sales, while customer revenue is comparatively well distributed. This asymmetry exposes the business to significant disruption risk if any single top variant underperforms or goes out of stock.
